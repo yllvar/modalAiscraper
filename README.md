@@ -1,5 +1,6 @@
 <img width="809" alt="Screenshot 2025-01-04 at 17 32 43" src="https://github.com/user-attachments/assets/23237abd-a1aa-4073-a97f-d583cf771d23" />
 
+<img width="1350" alt="Screenshot 2025-01-04 at 17 37 34" src="https://github.com/user-attachments/assets/2e248d04-c86a-4d40-968b-61b7e1d2774e" />
 
 
 ```markdown
