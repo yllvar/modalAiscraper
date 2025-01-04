@@ -1,3 +1,9 @@
+# Modal AI Web Scraper
+
+## Overview
+**Modal AI Web Scraper** is a tool that combines web scraping capabilities with AI-powered analysis using Modal's advanced GPU infrastructure. This project enables users to input a URL, scrape its content, and perform AI analysis on the extracted data, all through a user-friendly web interface.
+
+
 <img width="1350" alt="Screenshot 2025-01-04 at 17 37 34" src="https://github.com/user-attachments/assets/2e248d04-c86a-4d40-968b-61b7e1d2774e" />
 
 ---
@@ -6,11 +12,6 @@
 
 
 ```markdown
-# Modal AI Web Scraper
-
-## Overview
-**Modal AI Web Scraper** is a tool that combines web scraping capabilities with AI-powered analysis using Modal's advanced GPU infrastructure. This project enables users to input a URL, scrape its content, and perform AI analysis on the extracted data, all through a user-friendly web interface.
-
 ## Features
 - **Web scraping** using server-side fetch API.
 - **AI-powered content analysis** leveraging Modal's L40S GPU.
