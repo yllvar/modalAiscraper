@@ -29,7 +29,7 @@ Ensure you have the following installed before starting:
 - A **Vercel account** (for deployment).
 
 ---
-
+```
 ## Installation
 
 ### 1. Clone the repository:
@@ -37,6 +37,7 @@ Ensure you have the following installed before starting:
 git clone https://github.com/yourusername/modal-ai-web-scraper.git
 cd modal-ai-web-scraper
 ```
+---
 
 ### 2. Install dependencies:
 ```bash
@@ -44,6 +45,7 @@ npm install
 # or
 yarn install
 ```
+---
 
 ### 3. Set up environment variables:
 Create a `.env.local` file in the root directory and add your Modal API key:
